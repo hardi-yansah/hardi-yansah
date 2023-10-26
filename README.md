@@ -47,7 +47,7 @@
                       <li>Regression Testing</li>
                       <li>Exploratory Testing</li>
                     </ol>
-              <h3>Internal Projects</h3>
+              <h2>Internal Projects</h2>
               <h3><a href="skorpoints.com" target="_blank">SKORPOINTS</a></h3>
                 <p><strong>Role: </strong>QA and Tech Writer</p>
                 <p><strong>Project Description:</strong>SKOR Engagement is a platform for engage to your employee, community, or other people with rewards points and the points can be redeem rewards with multiple merchants.</p>
